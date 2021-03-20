@@ -1,3 +1,5 @@
+""" Tentei adicionar "try" e "execpt" para não aceitar strings mas não consegui encontrar uma solução """
+
 from funcs import *
 
 userlist = []
